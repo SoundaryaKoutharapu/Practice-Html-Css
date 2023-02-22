@@ -1,0 +1,83 @@
+            body
+                {
+                    background-image: url("nature_pic.jpeg");
+            /*      background:linear-gradient(to right, yellowgreen, lightpink); 
+                    background-repeat: no-repeat ;  */
+                   background-attachment: fixed;
+                   background-position: center;
+                  
+                }
+
+                h2
+                {
+                    color: white ;
+                    font-family: "Helvetica", "sans-serif" ;
+                   /* border-style: dotted;
+                    border-radius: 2px;
+                    border-width: 4px;
+                    border-color: rgb(86, 11, 198);
+                    padding: 5px;*/
+                  
+                }
+
+                h3
+                {
+                    color: rgb(240, 10, 10);
+                    font-style: italic;
+                    font-family: ans-serif;
+                    font-weight:bolder;
+                    font-stretch: wider;
+                    
+                }
+
+                p
+                {
+                    background-color: rgb(142, 252, 252);
+            /* Fonts */
+                    font-family: "sans-serif";
+                    font-weight: bold;
+                    font-style: italic;
+                    font-size: 18px;
+            /* Borders */
+                 border-style: dashed;
+                 border-radius: 5px;
+                 border-color: rgb(219, 17, 23);
+                 border-width: 4px;
+                padding: 10px;
+            
+                }
+
+          /*  ABOUT ID'S - how to style using id's
+
+                #p1
+                {
+                    background-color: rgb(139, 118, 158);
+                    color: azure;
+                }
+                #p2
+                {
+                    background-color: blanchedalmond;
+                }
+                #p3
+                {
+                    background-color: rgb(123, 156, 50);
+                }
+                #p4
+                {
+                    background-color: rgb(241, 159, 65);
+                }     */
+
+
+            /*  ABOUT CLASSES - How to style using classes  */
+
+            .even
+            {
+                background-color: blanchedalmond;
+            }
+            .odd
+            {
+                background-color: rgb(246, 189, 220);
+            }
+             
+
+                
